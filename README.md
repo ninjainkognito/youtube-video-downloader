@@ -28,8 +28,8 @@ python downloader.py https://www.youtube.com/watch?v=dQw4w9WgXcQ ./downloads
 ```
 
 Arguments
-- <YouTube-URL>: The URL of the YouTube video you want to download.
-- <Output-Directory>: The folder where the downloaded video should be saved. If it does not exist, it will be created automatically.
+- {YouTube-URL}: The URL of the YouTube video you want to download.
+- {Output-Directory}: The folder where the downloaded video should be saved. If it does not exist, it will be created automatically.
 
 ## Notes
 - To keep yt-dlp up to date, run:
