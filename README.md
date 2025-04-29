@@ -21,7 +21,7 @@ pip install yt-dlp
 
 ## Usage
 ```bash
-python downloader.py <YouTube-URL> <Output-Directory>
+python downloader.py {YouTube-URL} {Output-Directory}
 ```
 ```bash
 python downloader.py https://www.youtube.com/watch?v=dQw4w9WgXcQ ./downloads
